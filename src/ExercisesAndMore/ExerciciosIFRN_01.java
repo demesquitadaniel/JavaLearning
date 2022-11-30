@@ -5,7 +5,7 @@
 package ExercisesAndMore;
 import java.util.Scanner;
 
-public class ListaExerciciosDocenteIFRN {
+public class ExerciciosIFRN_01 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Digite sua idade em anos: ");
